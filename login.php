@@ -62,7 +62,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
       $_SESSION['username'] = $username;
 
       // ✅ Redirect ke index.php
-      header("Location: /modul_parkir/kelompok_parkir/index.php");
+      header("Location: /kelompok_parkir/index.php");
 
       exit;
   } else {
