@@ -103,7 +103,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
         <p class="text-sm mt-6 text-center text-gray-600">
           Belum punya akun?
-          <a href="register.php" class="text-yellow-600 font-semibold hover:underline">Daftar Sekarang</a>
+          <a href="register.php" class="text-yellow-600 font-semibold hover:underline">Daftar Sekarang!</a>
         </p>
       </form>
     </div>
